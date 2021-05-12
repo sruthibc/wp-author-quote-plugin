@@ -1,0 +1,1 @@
+# wp-author-quote-plugin
